@@ -129,15 +129,4 @@ If you run the app now, it will print the chosen phone number in your logs.
 
 Now, you can run the app, choose a contact, and a toast message of the normalized number will pop up.
 
-Next up: using Sinch to make a phone call with that number. Head over to our Android tutorial here [sinch.com/tutorials/app-to-phone-calling-android](https://www.sinch.com/tutorials/app-to-phone-calling-android/)
-
-
-
-
-
-
-
-
-
-
-
+I hope this gives a good example of how to use the Android Contact Picker. Next up, we will be using Sinch to make a phone call with that number. Head over to our [Android tutorial here](https://www.sinch.com/tutorials/app-to-phone-calling-android/).
