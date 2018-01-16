@@ -1,13 +1,12 @@
-#Use Android Contact Picker to Make Phone Calls
-
+# Use Android Contact Picker to Make Phone Calls
 In this tutorial, I will walk you through using the Android Contact Picker to let your users choose a phone number from their contact book. Upon finishing this tutorial, you can follow our [Android calling tutorial](https://www.sinch.com/tutorials/app-to-phone-calling-android/) to make a call with Sinch.
 
 If you get stuck at any point, you can check out the finished source code on our [GitHub](http://www.github.com/sinch/android-contact-chooser).
 
-##Setup
+## Setup
 If you haven't already, [sign up for a Sinch account](https://www.sinch.com/dashboard/#/signup). Create a new app and take note of the key and secret.
 
-##User interface
+## User interface
 The user interface is as simple as can be—just a button!
 
     <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
@@ -31,7 +30,7 @@ The user interface is as simple as can be—just a button!
 
 Users will click this button to make the contact picker pop up.
 
-##Choose contact
+## Choose contact
 
 Move back over to your main activity java file. In onCreate, set an onClickListener for the button. When the button is clicked, you want to create an intent that opens the contact book and returns a result when a user is clicked.
 
@@ -62,7 +61,7 @@ After the user has chosen a contact, you need to parse the result returned from 
 
 If you run the app now, it will print the chosen phone number in your logs.
 
-##Normalize phone number
+## Normalize phone number
 
 To ready this phone number to be used to make a call with Sinch, you will use an AsyncTask to make a call to our phone number normalization API. See the comments below for an explanation of what's happening:
 
