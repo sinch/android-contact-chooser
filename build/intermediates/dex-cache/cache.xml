@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_b13f0b81a13efb1e3f47841f277f5016c21a6e52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-26.0.0-alpha1_ef3e16bd66c2c28b9c95bb2eed1b04bdee326a11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-26.0.0-alpha1_d4673641526c6040ef568c1289013d6248f6b740.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\exploded-aar\sinch-android-rtc\3.12.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="726054b6a6c86343d9b2c262e5a1dfbb0ced4b74">
+        <dex dex="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\pre-dexed\debug\exploded-aar-sinch-android-rtc-3.12.3_4cb543ec5123a836cb3e32c67f2d2021a90c6a47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alius\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_45efaca8cad6c05310f4e2f89506eb5eda74b029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-26.0.0-alpha1_6445fa3666bfd092a15e1ac4fff1e9c4946a0600.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-26.0.0-alpha1_ff37af31ba5de89f26b318edbf24b6583346efb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-26.0.0-alpha1_ad1a4a4646893c80778d8bd29d65453a3548c6c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-26.0.0-alpha1_05a3dae1b217d1be7feacccb42017b1d8ca0a9f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_9abbb99f96c04a74618ef54ed3e53a88ee07931c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\Users\alius\Documents\GitHub\master\android-contact-chooser\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-26.0.0-alpha1_c3cd31adb69d5eef22a1a9ce499c6c05ec89dd69.jar" />
+    </item>
+
+</items>
