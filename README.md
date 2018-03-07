@@ -56,6 +56,7 @@ After the user has chosen a contact, you need to parse the result returned from 
             Cursor cursor = getContentResolver().query(contactUri, null, null, null, null);
             cursor.moveToFirst();
             int column = cursor.getColumnIndex(ContactsContract.CommonDataKinds.Phone.NUMBER);
+            (new normalizePhoneNumberTask()).execute(cursor.getString(column));
             Log.d("phone number", cursor.getString(column));
         }
     }
